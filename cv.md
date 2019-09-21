@@ -4,7 +4,6 @@
  # Aleksandr Bucha
 Minsk city, Republic of Belarus
 Phone: +375-29-8644885, email: aleksbucha2019@gmail.com  
-
 ___
 
 ## My goal is to be a Web Developer
@@ -29,3 +28,17 @@ I have wrote some sample programs on node js looking youtube courses.
 
 [My git repository](https://github.com/aleksbucha)
 ___
+
+## Education 
+ 
+[codecademy courses](https://www.codecademy.com)
+
+* [Learn CSS](https://www.codecademy.com/learn/learn-css)
+* [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
+___
+
+## English
+
+My English level for the passed test on [Streamline leguage school](https://test.str.by/?lang=ru) site is set to B1. I continue to study it myself using textbooks and audio.
+
+ 
