@@ -20,3 +20,12 @@ ___
 * chrome debug tools
 * visual studio code
 ___
+
+## Experience
+
+I have a look to examples on [Real World Example apps](https://github.com/gothinkster/realworld)
+
+I have wrote some sample programs on node js looking youtube courses.
+
+[My git repository](https://github.com/aleksbucha)
+___
