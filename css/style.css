@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    font-family: Arial, Helvetica, Times;
+    font-size: 22px;
+    line-height: 120%
+}
+#resume {
+    width: 1024px;
+    padding:40px;
+    margin:0 auto;
+}
+h1 {
+  font-size: 150%;
+  margin-bottom: 50px;
+}
+h2 {
+  font-size: 120%;
+  margin-bottom: 20px;
+}
+hr {
+   margin-top:20px;
+}
+.block {
+  margin-top:20px;
+  margin-bottom: 20px;
+
+}
