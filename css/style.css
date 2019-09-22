@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    font-family: Arial, Helvetica, Times;
+    font-size: 22px;
+    line-height: 120%
+}
+#resume {
+    width: 1024px;
+    padding:40px;
+    margin:0 auto;
+}
